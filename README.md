@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-おはようございます。私はバイジです。どぞう、よろしくお願いいたします。
+おはようございます。私はバイジです。
+どぞう、よろしくお願いいたします。
 
 [欢迎点击来到我的仓库](https://github.com/Beierchen22/belle.github.io)
 
@@ -9,7 +10,5 @@
 [新浪微博快捷进入](https://weibo.com)
 
 [欢迎点击来到我的博客](https://beierchen22.github.io/belle.github.io/)
-
-おはようございます。私はバイジです。どぞう、よろしくお願いいたします。
 
 hhh一起走花路叭
