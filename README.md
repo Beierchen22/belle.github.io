@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+おはようございます。私はバイジです。どぞう、よろしくお願いいたします。
+
 [欢迎点击来到我的仓库](https://github.com/Beierchen22/belle.github.io)
 
 [百度网址快捷进入](https://www.baidu.com)
