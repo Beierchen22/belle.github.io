@@ -1,7 +1,10 @@
 ## Welcome to GitHub Pages
 
 おはようございます。私はバイジです。
+
 どぞう、よろしくお願いいたします。
+
+私は四川大学のがくせいです。
 
 [欢迎点击来到我的仓库](https://github.com/Beierchen22/belle.github.io)
 
