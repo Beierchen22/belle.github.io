@@ -10,4 +10,6 @@
 
 [欢迎点击来到我的博客](https://beierchen22.github.io/belle.github.io/)
 
+おはようございます。私はバイジです。どぞう、よろしくお願いいたします。
+
 hhh一起走花路叭
