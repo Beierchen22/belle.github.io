@@ -1,20 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-**About me**
+## **About me**
+### Basic personal information
 
-おはようございます。私はバイジです。
+### About my major
 
-どぞう、よろしくお願いいたします。
-
-私は四川大学のがくせいです。
-
+### Personal interests and specialties
 
 
-**How to find me**
-
-[Welcome to my warehouse](https://github.com/Beierchen22/belle.github.io)
-
-[Welcome to my sina blog](https://weibo.com/2588506177/profile)
-
-[Welcome to my blog](https://beierchen22.github.io/belle.github.io/)
+## **How to find me**
+[1.Welcome to my warehouse](https://github.com/Beierchen22/belle.github.io)  [2.Welcome to my sina blog](https://weibo.com/2588506177/profile)  [3.Welcome to my blog](https://beierchen22.github.io/belle.github.io/)
 
