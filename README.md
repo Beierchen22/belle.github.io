@@ -15,7 +15,10 @@ Personally, I am actually good at the career related to the news media that I lo
 After majoring in information resource management, I also want to combine this major with my own interests. Sometimes I think news media and information resource management are also related.
 
 ## **How to find me**
+#### Foreign websites
 [1.Welcome to my warehouse](https://github.com/Beierchen22/belle.github.io)  
-[2.Welcome to my sina blog](https://weibo.com/2588506177/profile)   
-[3.Welcome to my blog](https://beierchen22.github.io/belle.github.io/)
+[2.Welcome to my blog](https://beierchen22.github.io/belle.github.io/)  
+#### Domestic site  
+[3.Welcome to my sina blog](https://weibo.com/2588506177/profile)   
 
+## **Sth. want to share with you**
